@@ -1,0 +1,2 @@
+# myRatingScale
+Created with CodeSandbox
